@@ -1,5 +1,5 @@
 
-## Pi-hole Blacklists
+## Pi-hole Blocklists
 
 This is a collection of domains to block AD tracking in Pi-Hole
 
